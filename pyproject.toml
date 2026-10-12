@@ -1,0 +1,7 @@
+[project]
+name = "genpark-workspace-checkpoint-snapshot-and-state-rollback-skill"
+version = "1.0.0"
+description = "Captures atomic workspace file snapshots before agent executions, computes diffs, and rolls back regressions with zero external dependencies"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
