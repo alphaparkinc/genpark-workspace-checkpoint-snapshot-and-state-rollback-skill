@@ -55,3 +55,10 @@ mgr.create_checkpoint("v1", ["app.py"], description="Pre-edit snapshot")
 # If an agent introduces bugs:
 mgr.rollback("v1")
 ```
+
+---
+
+## GenPark Ecosystem
+
+- **Official Website**: [https://www.genpark.ai](https://www.genpark.ai)
+- **LinkedIn Page**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)
